@@ -7,7 +7,7 @@ Loopple Landings is a collection of beautiful HTML Responsive Landing Pages & Da
 
 ![Loopple Landings](https://user-images.githubusercontent.com/27827318/172053439-b5f19e10-3406-49fd-be80-b65a85cabace.png)
 
-## Table of contents
+## Table of contents 
 
 - [Categories](#categories)
 - [Templates](#templates)
